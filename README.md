@@ -1,5 +1,6 @@
 <h1 align="center">DevAccGen</h1>
-<p align="center">⚠️ Attention, the <strong>DevAccGen</strong> project was developed for educational purposes, this type of project violates the terms of service of discord, the use of this project puts your account at risk of deletion</p>
+<h3 align="center">⚠️ Attention, the **DevAccGen** project was developed for educational purposes, this type of project violates the terms of service of discord, the use of this project puts your account at risk of deletion</h3>
+
 
 <p align="center">
   <a aria-label="PHP Version" href="https://php.net">
