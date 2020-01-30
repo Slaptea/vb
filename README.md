@@ -1,11 +1,11 @@
 <h1 align="center">DevAccGen</h1>
-⚠️ Attention, the DevAccGen project was developed for educational purposes, this type of project violates [the terms of service](https://discordapp.com/terms) of discord, the use of this project puts your account at risk of deletion
-
 
 <p align="center">
   <a aria-label="PHP Version" href="https://php.net">
     <img src="https://img.shields.io/badge/php-7.4.1-blue"></img>
   </a>
+
+## ⚠️ Attention, the DevAccGen project was developed for educational purposes, this type of project violates the terms of service of discord, the use of this project puts your account at risk of deletion
 
 ## 🔗Links
 
