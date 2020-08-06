@@ -1,4 +1,4 @@
-<h1 align="center">Dicord Account Generator</h1>
+<h1 align="center">Discord Account Generator</h1>
 
 <p align="center">
   <a aria-label="PHP Version" href="https://php.net">
